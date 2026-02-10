@@ -1,7 +1,7 @@
 
 /*
  * Use the address and dereferencing operators on variables and pointers 
- * Display value and addres data via the variable and then via the pointer
+ * Display value and address data via the variable and then via the pointer
  */
 
 #include <stdio.h>
